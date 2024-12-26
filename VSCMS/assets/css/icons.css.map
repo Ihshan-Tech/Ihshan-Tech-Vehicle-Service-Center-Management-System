@@ -1,0 +1,33 @@
+{
+    "version": 3,
+    "sources": [
+        "../scss/icons.scss",
+        "../scss/icons/font-awesome/scss/font-awesome.scss",
+        "../scss/icons/font-awesome/scss/_variables.scss",
+        "../scss/icons/font-awesome/scss/_mixins.scss",
+        "../scss/icons/font-awesome/scss/_path.scss",
+        "../scss/icons/font-awesome/scss/_core.scss",
+        "../scss/icons/font-awesome/scss/_larger.scss",
+        "../scss/icons/font-awesome/scss/_fixed-width.scss",
+        "../scss/icons/font-awesome/scss/_list.scss",
+        "../scss/icons/font-awesome/scss/_bordered-pulled.scss",
+        "../scss/icons/font-awesome/scss/_animated.scss",
+        "../scss/icons/font-awesome/scss/_rotated-flipped.scss",
+        "../scss/icons/font-awesome/scss/_stacked.scss",
+        "../scss/icons/font-awesome/scss/_icons.scss",
+        "../scss/icons/font-awesome/scss/_screen-reader.scss",
+        "../scss/icons/material-design/scss/materialdesignicons.scss",
+        "../scss/icons/material-design/scss/_variables.scss",
+        "../scss/icons/material-design/scss/_functions.scss",
+        "../scss/icons/material-design/scss/_path.scss",
+        "../scss/icons/material-design/scss/_core.scss",
+        "../scss/icons/material-design/scss/_icons.scss",
+        "../scss/icons/material-design/scss/_extras.scss",
+        "../scss/icons/material-design/scss/_animated.scss",
+        "../scss/icons/feather/feather.scss",
+        "../scss/icons/dripicons/dripicons.scss",
+        "../scss/icons/simple-line-icons/scss/simple-line-icons.scss"
+    ],
+    "names": [],
+    "file": "icons.css"
+}
